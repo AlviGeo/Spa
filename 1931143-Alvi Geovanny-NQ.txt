@@ -1,0 +1,11 @@
+Anggota Kelompok SBD :
+- Alvi Geovanny (1931143)
+- Infrisanti Wilson Tong (1931079)
+- Vincent Octarian Vianto (1931090)
+----------------------------------------------------------------------
+create database spa
+
+create table admin(
+    id_admin char(6) not null primary key,
+    name_admin varchar(50) not null,
+    password varchar(50)not null);
