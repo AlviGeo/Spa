@@ -19,6 +19,7 @@
 			<li> <a href="Ruangan1.php">Table Ruangan</a> </li>
 			<li> <a href="Servis1.php">Table Servis</a> </li>
 			<li> <a href="Therapist1.php">Table Therapist</a> </li>
+			<li> <a href="Query1.php">Query</a> </li>
 			<br>
 			<a href="index.php">Back</a> </li>
 		</ol>

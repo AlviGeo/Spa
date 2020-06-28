@@ -26,6 +26,7 @@
 			<li><a href="Servis.php">Table Servis</a>
 				<br>
 			<li><a href="Therapist.php">Table Therapist</a>
+			<li><a href="Query.php">Query </a>
 				<br>
 				<br>
 			<a href="index.php">Back</a>
