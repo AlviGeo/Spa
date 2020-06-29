@@ -11,7 +11,11 @@ $data = mysql_fetch_array($query);
 ?>
 	<form action= updatePembayaran.php method=POST>
 		<table>
-			
+			<tr>
+				<td>Kode Pembayaran</td>
+				<td>: <input type=text name=id_pembayaran value="<?php echo $data['id_pembayaran'];?>"
+				/><input type=hidden name=id_pembayaran value="<?php echo $data ['id_pembayaran'];?>"/></td>
+			</tr>
 			<tr>
 				<td>ID Pembayaran</td>
 				<td>: <input type=text name=id_pembayaran></td>
